@@ -1,0 +1,5 @@
+/**
+ * Handles the scenario where tests are not yet set up in the repository.
+ * Displays a message: "It looks like you may not have tests set up in this repository yet."
+ * This can be used to prompt users to initialize or configure testing for their project.
+ */
