@@ -1,5 +1,5 @@
 /**
- * Handles the scenario where tests are not yet set up in the repository.
- * Displays a message: "It looks like you may not have tests set up in this repository yet."
- * This can be used to prompt users to initialize or configure testing for their project.
+ * 处理仓库中尚未设置测试的场景。
+ * 显示提示信息："It looks like you may not have tests set up in this repository yet."
+ * 可用于提示用户初始化或配置项目的测试。
  */
